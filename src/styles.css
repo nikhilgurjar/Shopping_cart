@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+}
+.navbarctive {
+  width: 60px;
+  height: 60px;
+  border-radius: 39px;
+  background-color: red;
+  position: "absolute";
+  margin-top: -39px;
+  display: flex;
+  padding: 7px;
+  justify-content: center;
+  box-shadow: 10px #7f58ff;
+
+  border: 8px #ffffff solid;
+
+  /* border-top-left-radius: 45%;
+  border-top-right-radius: 45%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+background-color:red;
+display: flex;
+justify-content: center;
+top:20px;
+margin-top: -50px;
+border-left:8px white solid;
+border-right: 8px white solid;
+border-bottom: 8px white solid;
+padding-top: 4px;
+padding:10px; */
+}
